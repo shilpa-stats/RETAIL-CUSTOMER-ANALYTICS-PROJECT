@@ -50,8 +50,6 @@ Data cleaning
 Customer analytics
 
 ## Author
-SHILPA S
-
 Shilpa S  
 MSc Statistics  
 Aspiring Data Analyst
